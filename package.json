@@ -36,7 +36,10 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "tslib": "~2.6"
+    "pdfkit": "^0.14.0",
+    "tesseract.js": "^5.0.4",
+    "tslib": "~2.6",
+    "typechat": "^0.0.10"
   },
   "volta": {
     "node": "20.10.0"
